@@ -3,7 +3,7 @@ Unlock the power of seamless communication with TextRead TTS – a free, easy-to
 
 通过 TextRead TTS 解锁无缝沟通的力量 —— 一个免费、易于使用的文本转语音 API，让您的文本瞬间变成自然流畅的语音！立即在 https://textreadtts.com 开始集成，让您的内容焕发新生！
 
-## 免费tts接口格式
+## 免费tts接口格式（免费文本转语音接口）
 
 GET请求（可复制到浏览器直接测试）
 
